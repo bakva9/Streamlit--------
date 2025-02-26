@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("デプロイテスト")
+st.title("騙されてて草w")
